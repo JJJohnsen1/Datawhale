@@ -35,5 +35,6 @@ Embedding(今天) + Embedding(天气) + Embedding(很) + Embedding(不好)
 
 详细介绍 ：https://zhuanlan.zhihu.com/p/164502624
 
+而在Bert中，Embedding层由TokingEmbedidng+
 
 
