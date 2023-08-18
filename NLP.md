@@ -18,7 +18,7 @@ Embedding(今天) + Embedding(天气) + Embedding(很) + Embedding(不好)
 = (1,1,1,1）$$
 
 ### *停用词
-停用词(Stop Words)是自然语言处理领域的一个重要工具，通常被用来提升文本特征的质量，或者降低文本特征的维度。
+停用词(Stop Words)是自然语言处理领域的一个重要工具，通常被用来提升文本特征的质量，或者降低文本特征的维度。<br>
 详细介绍 ：https://zhuanlan.zhihu.com/p/335347401
 
 # 2 深度学习
