@@ -33,8 +33,11 @@ Embedding(今天) + Embedding(天气) + Embedding(很) + Embedding(不好)
 
 最终，任何输入都可以构成一个稀疏矩阵。而在这时由于稀疏矩阵的特点，占用计算资源十分过度。于是，我们可以利用Embedding层将该稀疏矩阵进行**降维**，这样可以大大减少运算资源。
 
+而在Bert中，Embedding层由TokingEmbedidng+segementEmbedding+positionEmbedding组成。
+
 详细介绍 ：https://zhuanlan.zhihu.com/p/164502624
 
-而在Bert中，Embedding层由TokingEmbedidng+
+## 2.2 Encoder
+Bert的Encoder和Transforms的Encoder一模一样
 
-
+详细介绍 ：https://zhuanlan.zhihu.com/p/338817680
