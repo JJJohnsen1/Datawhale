@@ -38,6 +38,7 @@ Embedding(今天) + Embedding(天气) + Embedding(很) + Embedding(不好)
 详细介绍 ：https://zhuanlan.zhihu.com/p/164502624
 
 ## 2.2 Encoder
-Bert的Encoder和Transforms的Encoder一模一样
+Bert的Encoder和Transforms的Encoder一模一样，在此不做过多介绍。
 
 详细介绍 ：https://zhuanlan.zhihu.com/p/338817680
+# 3 大模型
